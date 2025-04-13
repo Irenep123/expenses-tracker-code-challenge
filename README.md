@@ -13,3 +13,4 @@ If you are developing a production application, we recommend using TypeScript an
 
 The link to site is https://expenses-tracker-code-challenge-ngu3e5ro8.vercel.app/
 
+![Image](https://github.com/user-attachments/assets/87938241-a5bf-4d61-b27b-a1bfcc460621)
